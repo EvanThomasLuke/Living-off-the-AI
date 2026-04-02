@@ -2,6 +2,7 @@
 
 https://www.originhq.com/blog/escaping-the-sandbox-confused-deputies
 
+https://www.proofpoint.com/us/blog/threat-insight/cursorjack-weaponizing-deeplinks-exploit-cursor-ide?utm_medium=social_organic&utm_source=everyonesocial&es_id=e8a48801fb
 
 https://0xmoose.substack.com/p/c4-command-and-control-over-claude
 
