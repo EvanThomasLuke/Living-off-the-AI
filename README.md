@@ -1,5 +1,9 @@
 # Living-off-the-AI
 
+
+https://www.akamai.com/blog/security-research/active-exploitation-coyote-malware-first-ui-automation-abuse-in-the-wild
+
+
 https://www.originhq.com/blog/escaping-the-sandbox-confused-deputies
 
 https://www.proofpoint.com/us/blog/threat-insight/cursorjack-weaponizing-deeplinks-exploit-cursor-ide?utm_medium=social_organic&utm_source=everyonesocial&es_id=e8a48801fb
