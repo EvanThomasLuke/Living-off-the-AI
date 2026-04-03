@@ -1,5 +1,8 @@
 # Living-off-the-AI
 
+https://arxiv.org/pdf/2510.11398 - Living Off the LLM: How LLMs Will Change
+Adversary Tactics
+
 
 https://www.akamai.com/blog/security-research/active-exploitation-coyote-malware-first-ui-automation-abuse-in-the-wild
 
