@@ -1,5 +1,7 @@
 # Living-off-the-AI
 
+https://dreadnode.io/blog/lolmil-living-off-the-land-models-and-inference-libraries
+
 https://arxiv.org/pdf/2510.11398 - Living Off the LLM: How LLMs Will Change
 Adversary Tactics
 
