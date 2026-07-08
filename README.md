@@ -22,3 +22,7 @@ https://www.bleepingcomputer.com/news/security/lamehug-malware-uses-ai-llm-to-cr
 
 https://github.com/0x4D31/endpoint-ai-agent-abuse/tree/main
 
+
+
+todos 
+https://github.com/RedTeamOperations/RedBeacon-AI
